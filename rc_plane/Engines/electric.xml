@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<electric name="electric">
+  <maxpower unit="WATTS">300</maxpower>
+  <minrpm>0</minrpm>
+  <maxrpm>12000</maxrpm>
+</electric>
+

@@ -1,0 +1,18 @@
+<initialize name="reset00">
+  <ic>
+    <altitude-ft>0</altitude-ft>
+    <vc-kts>0</vc-kts>
+    <phi-deg>0</phi-deg>
+    <theta-deg>0</theta-deg>
+    <psi-deg>0</psi-deg>
+    <lat-gc-deg>37.628</lat-gc-deg>
+    <long-gc-deg>-122.393</long-gc-deg>
+  </ic>
+  <flight_control>
+    <control name="throttle">0.0</control>
+    <control name="aileron">0.0</control>
+    <control name="elevator">0.0</control>
+    <control name="rudder">0.0</control>
+  </flight_control>
+</initialize>
+

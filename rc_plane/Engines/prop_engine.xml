@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<piston_engine name="prop_engine">
+  <minmp unit="INHG">6.5</minmp>
+  <maxmp unit="INHG">28.5</maxmp>
+  <displacement unit="IN3">200.0</displacement>
+  <maxhp>1.5</maxhp>
+  <cycles>4.0</cycles>
+  <idlerpm>700</idlerpm>
+  <maxrpm>2800</maxrpm>
+  <maxthrottle>1.0</maxthrottle>
+  <minthrottle>0.0</minthrottle>
+  <sparkfailedrpm>350</sparkfailedrpm>
+  <volumetric_efficiency>0.85</volumetric_efficiency>
+  <bsfc unit="LBS/HP*HR">0.45</bsfc>
+</piston_engine>

@@ -1,0 +1,23 @@
+<initialize name="cruise">
+  <position>
+    <latitude unit="DEG">37.6195</latitude>
+    <longitude unit="DEG">-122.3738</longitude>
+    <altitude unit="FT">500</altitude>
+  </position>
+  <velocity>
+    <v-north unit="FT/SEC">60</v-north>
+    <v-east unit="FT/SEC">0</v-east>
+    <v-down unit="FT/SEC">0</v-down>
+  </velocity>
+  <attitude>
+    <pitch unit="DEG">2</pitch>
+    <roll unit="DEG">0</roll>
+    <heading unit="DEG">90</heading>
+  </attitude>
+  <fcs>
+    <throttle>0.8</throttle>
+    <elevator>0.0</elevator>
+    <aileron>0.0</aileron>
+    <rudder>0.0</rudder>
+  </fcs>
+</initialize>
